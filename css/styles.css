@@ -1,0 +1,387 @@
+ /* General */
+  h1, h2, h3 {
+    font-family: Oswald;
+  }
+  
+  h4, h5, h6 {
+    font-family: Oswald;
+    font-weight: 200;
+  }
+  
+  body {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px !important;
+    line-height: 22px;
+    color: #666;
+  }
+  
+  .black {
+    color: #444444;
+  }
+  
+  .oswald {
+    font-family: 'Oswald', sans-serif;
+  }
+  
+  .oswald-bold {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+  }
+  
+  .light-gray {
+    color: #a1a1a1;
+  }
+  
+  .orange {
+    color: #FF6839;
+  }
+  
+  .inline {
+    display: inline;
+  }
+  
+  .txta-left {
+    text-align: left;
+  }
+  
+  .txta-right {
+    text-align: right;
+  }
+  
+  .txta-center {
+    text-align: center;
+  }
+  
+  h5 {
+    font-size: 20px;
+  }
+
+  .centerdiv {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  .chart-titles {
+    color: #444444;
+    font-size: 20px;
+    font-family: 'Oswald';
+  }
+  
+  h3 {
+    color: #444444;
+  }
+  
+  .subtext {
+    font-size: 10px;
+    display: block;
+  }
+/*NAVIGAVTION*/
+  .navdiv {
+    border-bottom: 1px solid lightgray;
+    border-left: 1px solid lightgray;
+    border-right: 1px solid lightgray;
+  }
+  
+  .nav {
+    height: 40px;
+    padding: 10px 0 0 5px;
+  }
+  
+  .subscribe {
+    background-color: #242424;
+    padding: 10px 0 0 2px;
+  }
+  
+  .subscribe a {
+    color: white !important;
+  }
+  
+  .nav a {
+    color: #444444;
+  }
+  
+  .nav a:visited {
+    color: #444444;
+  }
+  
+  .nav a:hover {
+    color: #FF6839;
+    text-decoration: none;
+  }
+
+  .navbar-date {
+    text-transform: uppercase;
+    padding-left: 15px;
+  }
+
+  .no-padding {
+    padding-right: 0;
+    padding-left: 0;
+  }
+  
+  .topnav-style {
+    font-size: 14px !important;
+  }
+
+/*categories navigation*/
+  .categories-nav-div {
+    margin-top: 20px;
+  }
+  
+  .logo-style {
+    width: 100%;
+  }
+  
+  .logo img:last-child{
+    display:none
+  }
+  
+  .logo:hover img:first-child{
+    display:none
+  }
+  
+  .logo:hover img:last-child{
+    display:inline-block
+  }
+  
+  .categories {
+    height: 40px;
+    background-color: #E9E6E2;
+    border: 1px solid white;
+    font-family: Oswald;
+    font-weight: 700;
+    font-size: 15px;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 8px;
+    color: #444444;
+  }
+  
+  .categories:hover {
+    background-color: #FF6839; 
+  }
+  
+  .articlecount-style {
+    width: 100%;
+    min-height: 80px;
+    border: 1px solid white;
+  }
+  
+  .articlecount img:last-child{
+    display:none
+  }
+  
+  .articlecount:hover img:first-child{
+    display:none
+  }
+  
+  .articlecount:hover img:last-child{
+    display:inline-block
+  }
+  
+  .categories-nav-articles {
+    padding: 0 !important;
+    margin-left: -4px;
+  }
+  
+  .categories-nav-cat {
+    padding-right: 18px;
+  }
+  
+  .categories-nav-logo {
+    padding-left: 0;
+  }
+
+/*MAIN CONTENT*/
+  .title {
+    color: #444444;
+    font-size: 47px;
+    font-weight: 700;
+    padding-top: 15px;
+    padding-right: 0.7em;
+  }
+  
+  .subtitle {
+    font-weight: 500;
+    font-size: 28px;
+  }
+
+
+/*PIE GRAPHS*/
+/*price range by year*/
+
+.section-piechart {
+  margin-top: 50px;
+}
+
+.chart {
+   min-height: 450px;
+}
+
+.tabs-info {
+   min-height: 300px;
+   padding: 15px;
+   margin-right: -15px;
+}
+
+.pricerange-years {
+   margin-top: 30px;
+}
+
+.pricerange-yearlabel {
+   min-height: 50px;
+   padding: 0;
+}
+
+.tab-margin {
+   margin-left: 0;
+}
+
+.year-tabs {
+  padding: 0;
+}
+
+.year-tabs button {
+  background-color: #E9E6E2;
+  border: none;
+  width: 80%;
+  min-height: 30px;
+  padding: 0;
+  text-align: center;
+  border-radius: 15px;
+}
+
+.year-tabs button:hover {
+  background-color: #FF6839; 
+}
+
+/* DATA TABLE */
+.datatable {
+  margin-top: 20px;
+}
+
+.dt-example {
+  margin-top: 100px;
+}
+
+/* AVG SQ FT */
+.avgsqft {
+  margin-top: 100px;
+}
+
+/* PRICE PER SQ FT */
+.pricepersqft {
+  margin-top: 100px;
+}
+
+
+.icons {
+  width: 115px;
+}
+
+.subheaders {
+  display: inline;
+}
+
+/*FOOTER */
+.backToTop {
+  width: 100px;
+  padding: 50px 0;
+}
+
+.backToToplink {
+  background-color: #FF6839;
+  width: 100px;
+  height: 100px;
+}
+
+.backToToplink:hover {
+  background-color: #242424;
+}
+
+.toparrow {
+  width: 100px;
+}
+
+a.backToToplink {
+  height: 100px;
+}
+
+.btt {
+  background-color: #FF6839;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+.btt:hover {
+  background-color: #242424;
+}
+
+.category-footer {
+  background-color: #242424;
+  min-height: 100px;
+}
+
+.bottom-categories {
+  height: 40px;
+  font-family: Oswald;
+  font-weight: 200;
+  font-size: 20px;
+  text-align: center;
+  text-transform: uppercase;
+  padding-top: 8px;
+  color: white;
+  padding-left: 22px;
+}
+
+.bottom-categoriescontainer {
+  padding-top: 38px;
+  padding-bottom: 38px;
+}
+
+.bottom-categories:hover {
+  color: #b3b3b3;
+}
+
+.bottom {
+  background-color: #3c3c3c;
+  color: #b3b3b3;
+  min-height: 150px;
+  text-align: center;
+  padding-top: 30px;
+}
+
+.social-media {
+  border-radius: 5px;
+}
+
+.social-media-icons {
+  width: 45px;
+  height: auto;
+}
+
+.socialmedia-div {
+  margin: 5px 0 25px 0;
+}
+
+.connect {
+  height: 40px;
+  font-family: Oswald;
+  font-weight: 200;
+  font-size: 20px;
+  text-align: center;
+  text-transform: uppercase;
+  padding-top: 8px;
+  color: white;
+}
+
+iframe {
+  border: 0px #FFFFFF none;
+  name: pie2008;
+  scrolling: no;
+  margin: 0px;
+  height: 425px;
+  width: 100%;
+}

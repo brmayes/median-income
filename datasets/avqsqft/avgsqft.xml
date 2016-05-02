@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<avgsqft>
+
+  <Row name="1973">
+    <Year>1973</Year>
+    <UnitedStates>1660</UnitedStates>
+    <Northeast>1595</Northeast>
+    <Midwest>1615</Midwest>
+    <South>1670</South>
+    <West>1715</West>
+  </Row>
+
+  <Row name="1974">
+    <Year>1974</Year>
+    <UnitedStates>1695</UnitedStates>
+    <Northeast>1600</Northeast>
+    <Midwest>1660</Midwest>
+    <South>1760</South>
+    <West>1660</West>
+  </Row>
+
+  <Row name="1975">
+    <Year>1975</Year>
+    <UnitedStates>1645</UnitedStates>
+    <Northeast>1575</Northeast>
+    <Midwest>1580</Midwest>
+    <South>1705</South>
+    <West>1635</West>
+  </Row>
+
+  <Row name="1976">
+    <Year>1976</Year>
+    <UnitedStates>1700</UnitedStates>
+    <Northeast>1630</Northeast>
+    <Midwest>1655</Midwest>
+    <South>1755</South>
+    <West>1685</West>
+  </Row>
+
+  <Row name="1977">
+    <Year>1977</Year>
+    <UnitedStates>1720</UnitedStates>
+    <Northeast>1650</Northeast>
+    <Midwest>1650</Midwest>
+    <South>1770</South>
+    <West>1730</West>
+  </Row>
+
+  <Row name="1978">
+    <Year>1978</Year>
+    <UnitedStates>1755</UnitedStates>
+    <Northeast>1730</Northeast>
+    <Midwest>1730</Midwest>
+    <South>1785</South>
+    <West>1740</West>
+  </Row>
+
+  <Row name="1979">
+    <Year>1979</Year>
+    <UnitedStates>1760</UnitedStates>
+    <Northeast>1795</Northeast>
+    <Midwest>1720</Midwest>
+    <South>1795</South>
+    <West>1730</West>
+  </Row>
+
+  <Row name="1980">
+    <Year>1980</Year>
+    <UnitedStates>1740</UnitedStates>
+    <Northeast>1770</Northeast>
+    <Midwest>1685</Midwest>
+    <South>1750</South>
+    <West>1735</West>
+  </Row>
+
+  <Row name="1981">
+    <Year>1981</Year>
+    <UnitedStates>1720</UnitedStates>
+    <Northeast>1805</Northeast>
+    <Midwest>1670</Midwest>
+    <South>1715</South>
+    <West>1735</West>
+  </Row>
+
+  <Row name="1982">
+    <Year>1982</Year>
+    <UnitedStates>1710</UnitedStates>
+    <Northeast>1755</Northeast>
+    <Midwest>1655</Midwest>
+    <South>1700</South>
+    <West>1740</West>
+  </Row>
+
+  <Row name="1983">
+    <Year>1983</Year>
+    <UnitedStates>1725</UnitedStates>
+    <Northeast>1795</Northeast>
+    <Midwest>1735</Midwest>
+    <South>1720</South>
+    <West>1695</West>
+  </Row>
+
+  <Row name="1984">
+    <Year>1984</Year>
+    <UnitedStates>1780</UnitedStates>
+    <Northeast>1860</Northeast>
+    <Midwest>1800</Midwest>
+    <South>1750</South>
+    <West>1785</West>
+  </Row>
+
+  <Row name="1985">
+    <Year>1985</Year>
+    <UnitedStates>1785</UnitedStates>
+    <Northeast>1830</Northeast>
+    <Midwest>1820</Midwest>
+    <South>1765</South>
+    <West>1770</West>
+  </Row>
+
+  <Row name="1986">
+    <Year>1986</Year>
+    <UnitedStates>1825</UnitedStates>
+    <Northeast>1850</Northeast>
+    <Midwest>1855</Midwest>
+    <South>1825</South>
+    <West>1800</West>
+  </Row>
+
+  <Row name="1987">
+    <Year>1987</Year>
+    <UnitedStates>1905</UnitedStates>
+    <Northeast>1955</Northeast>
+    <Midwest>1890</Midwest>
+    <South>1915</South>
+    <West>1870</West>
+  </Row>
+
+  <Row name="1988">
+    <Year>1988</Year>
+    <UnitedStates>1995</UnitedStates>
+    <Northeast>2005</Northeast>
+    <Midwest>2015</Midwest>
+    <South>1985</South>
+    <West>1995</West>
+  </Row>
+
+  <Row name="1989">
+    <Year>1989</Year>
+    <UnitedStates>2035</UnitedStates>
+    <Northeast>2075</Northeast>
+    <Midwest>1970</Midwest>
+    <South>2030</South>
+    <West>2065</West>
+  </Row>
+
+  <Row name="1990">
+    <Year>1990</Year>
+    <UnitedStates>2080</UnitedStates>
+    <Northeast>2105</Northeast>
+    <Midwest>2005</Midwest>
+    <South>2055</South>
+    <West>2160</West>
+  </Row>
+
+  <Row name="1991">
+    <Year>1991</Year>
+    <UnitedStates>2075</UnitedStates>
+    <Northeast>2105</Northeast>
+    <Midwest>1990</Midwest>
+    <South>2065</South>
+    <West>2155</West>
+  </Row>
+
+  <Row name="1992">
+    <Year>1992</Year>
+    <UnitedStates>2095</UnitedStates>
+    <Northeast>2115</Northeast>
+    <Midwest>2020</Midwest>
+    <South>2130</South>
+    <West>2090</West>
+  </Row>
+
+  <Row name="1993">
+    <Year>1993</Year>
+    <UnitedStates>2095</UnitedStates>
+    <Northeast>2160</Northeast>
+    <Midwest>2025</Midwest>
+    <South>2150</South>
+    <West>2050</West>
+  </Row>
+
+  <Row name="1994">
+    <Year>1994</Year>
+    <UnitedStates>2100</UnitedStates>
+    <Northeast>2195</Northeast>
+    <Midwest>2025</Midwest>
+    <South>2165</South>
+    <West>2025</West>
+  </Row>
+
+  <Row name="1995">
+    <Year>1995</Year>
+    <UnitedStates>2095</UnitedStates>
+    <Northeast>2240</Northeast>
+    <Midwest>2020</Midwest>
+    <South>2125</South>
+    <West>2045</West>
+  </Row>
+
+  <Row name="1996">
+    <Year>1996</Year>
+    <UnitedStates>2120</UnitedStates>
+    <Northeast>2280</Northeast>
+    <Midwest>2025</Midwest>
+    <South>2160</South>
+    <West>2070</West>
+  </Row>
+
+  <Row name="1997">
+    <Year>1997</Year>
+    <UnitedStates>2150</UnitedStates>
+    <Northeast>2265</Northeast>
+    <Midwest>2065</Midwest>
+    <South>2175</South>
+    <West>2135</West>
+  </Row>
+
+  <Row name="1998">
+    <Year>1998</Year>
+    <UnitedStates>2190</UnitedStates>
+    <Northeast>2270</Northeast>
+    <Midwest>2125</Midwest>
+    <South>2200</South>
+    <West>2200</West>
+  </Row>
+
+  <Row name="1999">
+    <Year>1999</Year>
+    <UnitedStates>2223</UnitedStates>
+    <Northeast>2298</Northeast>
+    <Midwest>2135</Midwest>
+    <South>2244</South>
+    <West>2234</West>
+  </Row>
+
+  <Row name="2000">
+    <Year>2000</Year>
+    <UnitedStates>2266</UnitedStates>
+    <Northeast>2435</Northeast>
+    <Midwest>2170</Midwest>
+    <South>2287</South>
+    <West>2244</West>
+  </Row>
+
+  <Row name="2001">
+    <Year>2001</Year>
+    <UnitedStates>2324</UnitedStates>
+    <Northeast>2466</Northeast>
+    <Midwest>2209</Midwest>
+    <South>2351</South>
+    <West>2317</West>
+  </Row>
+
+  <Row name="2002">
+    <Year>2002</Year>
+    <UnitedStates>2320</UnitedStates>
+    <Northeast>2516</Northeast>
+    <Midwest>2209</Midwest>
+    <South>2317</South>
+    <West>2350</West>
+  </Row>
+
+  <Row name="2003">
+    <Year>2003</Year>
+    <UnitedStates>2330</UnitedStates>
+    <Northeast>2443</Northeast>
+    <Midwest>2198</Midwest>
+    <South>2335</South>
+    <West>2387</West>
+  </Row>
+
+  <Row name="2004">
+    <Year>2004</Year>
+    <UnitedStates>2349</UnitedStates>
+    <Northeast>2543</Northeast>
+    <Midwest>2222</Midwest>
+    <South>2368</South>
+    <West>2352</West>
+  </Row>
+
+  <Row name="2005">
+    <Year>2005</Year>
+    <UnitedStates>2434</UnitedStates>
+    <Northeast>2556</Northeast>
+    <Midwest>2310</Midwest>
+    <South>2463</South>
+    <West>2434</West>
+  </Row>
+
+  <Row name="2006">
+    <Year>2006</Year>
+    <UnitedStates>2469</UnitedStates>
+    <Northeast>2612</Northeast>
+    <Midwest>2290</Midwest>
+    <South>2499</South>
+    <West>2488</West>
+  </Row>
+
+  <Row name="2007">
+    <Year>2007</Year>
+    <UnitedStates>2521</UnitedStates>
+    <Northeast>2550</Northeast>
+    <Midwest>2328</Midwest>
+    <South>2573</South>
+    <West>2524</West>
+  </Row>
+
+  <Row name="2008">
+    <Year>2008</Year>
+    <UnitedStates>2519</UnitedStates>
+    <Northeast>2651</Northeast>
+    <Midwest>2331</Midwest>
+    <South>2564</South>
+    <West>2508</West>
+  </Row>
+
+  <Row name="2009">
+    <Year>2009</Year>
+    <UnitedStates>2438</UnitedStates>
+    <Northeast>2594</Northeast>
+    <Midwest>2216</Midwest>
+    <South>2488</South>
+    <West>2434</West>
+  </Row>
+
+  <Row name="2010">
+    <Year>2010</Year>
+    <UnitedStates>2392</UnitedStates>
+    <Northeast>2613</Northeast>
+    <Midwest>2265</Midwest>
+    <South>2393</South>
+    <West>2386</West>
+  </Row>
+
+  <Row name="2011">
+    <Year>2011</Year>
+    <UnitedStates>2480</UnitedStates>
+    <Northeast>2559</Northeast>
+    <Midwest>2287</Midwest>
+    <South>2538</South>
+    <West>2457</West>
+  </Row>
+
+  <Row name="2012">
+    <Year>2012</Year>
+    <UnitedStates>2505</UnitedStates>
+    <Northeast>2582</Northeast>
+    <Midwest>2341</Midwest>
+    <South>2549</South>
+    <West>2502</West>
+  </Row>
+
+  <Row name="2013">
+    <Year>2013</Year>
+    <UnitedStates>2598</UnitedStates>
+    <Northeast>2636</Northeast>
+    <Midwest>2398</Midwest>
+    <South>2689</South>
+    <West>2524</West>
+  </Row>
+
+</avgsqft>
